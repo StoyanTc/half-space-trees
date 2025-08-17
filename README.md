@@ -1,4 +1,4 @@
-# half_space_trees
+# Half Space Trees
 
 Minimal, practical Half‑Space Trees (HST) for streaming anomaly detection in Rust
 ----------------------------------------------------------------------------
